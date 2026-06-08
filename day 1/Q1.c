@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {git
+int main() {
     int N, sum = 0;
 
     printf("Enter a number: ");
